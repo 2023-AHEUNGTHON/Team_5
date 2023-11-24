@@ -1,0 +1,53 @@
+.random-name-page {
+    background-color: #f5f6f9;
+  }
+  
+  .random-recommend-text {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 50px;
+    padding-top: 50px;
+    text-align: center;
+  }
+  
+  .recommendation-block {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .recommended-name-box {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 5px;
+  }
+
+  .recommended-name {
+    padding: 10px;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-top: 50px;
+  }
+  
+  .more-names-button,
+  .get-recommendation-again-button {
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .get-recommendation-again-button {
+    background-color: #297fff;
+  }
+  
